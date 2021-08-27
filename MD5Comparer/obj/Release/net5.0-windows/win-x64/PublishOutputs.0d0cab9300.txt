@@ -1,0 +1,2 @@
+C:\Data\UserData\Projects\DotNet\MD5Comparer\MD5Comparer\bin\publish\MD5 Comparer.pdb
+C:\Data\UserData\Projects\DotNet\MD5Comparer\MD5Comparer\bin\publish\MD5 Comparer.exe

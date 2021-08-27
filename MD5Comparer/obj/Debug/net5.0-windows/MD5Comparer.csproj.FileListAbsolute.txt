@@ -1,0 +1,54 @@
+C:\Data\UserData\PrivData\MD5Comparer\MD5Comparer\bin\Debug\net5.0-windows\MD5 Comparer.exe
+C:\Data\UserData\PrivData\MD5Comparer\MD5Comparer\bin\Debug\net5.0-windows\MD5 Comparer.deps.json
+C:\Data\UserData\PrivData\MD5Comparer\MD5Comparer\bin\Debug\net5.0-windows\MD5 Comparer.runtimeconfig.json
+C:\Data\UserData\PrivData\MD5Comparer\MD5Comparer\bin\Debug\net5.0-windows\MD5 Comparer.runtimeconfig.dev.json
+C:\Data\UserData\PrivData\MD5Comparer\MD5Comparer\bin\Debug\net5.0-windows\MD5 Comparer.dll
+C:\Data\UserData\PrivData\MD5Comparer\MD5Comparer\bin\Debug\net5.0-windows\ref\MD5 Comparer.dll
+C:\Data\UserData\PrivData\MD5Comparer\MD5Comparer\bin\Debug\net5.0-windows\MD5 Comparer.pdb
+C:\Data\UserData\PrivData\MD5Comparer\MD5Comparer\bin\Debug\net5.0-windows\Microsoft.WindowsAPICodePack.dll
+C:\Data\UserData\PrivData\MD5Comparer\MD5Comparer\bin\Debug\net5.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Data\UserData\PrivData\MD5Comparer\MD5Comparer\obj\Debug\net5.0-windows\Controls\CompareTwoListBoxItem.g.cs
+C:\Data\UserData\PrivData\MD5Comparer\MD5Comparer\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Data\UserData\PrivData\MD5Comparer\MD5Comparer\obj\Debug\net5.0-windows\App.g.cs
+C:\Data\UserData\PrivData\MD5Comparer\MD5Comparer\obj\Debug\net5.0-windows\MD5 Comparer_MarkupCompile.cache
+C:\Data\UserData\PrivData\MD5Comparer\MD5Comparer\obj\Debug\net5.0-windows\MD5 Comparer_MarkupCompile.lref
+C:\Data\UserData\PrivData\MD5Comparer\MD5Comparer\obj\Debug\net5.0-windows\Controls\CompareTwoListBoxItem.baml
+C:\Data\UserData\PrivData\MD5Comparer\MD5Comparer\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Data\UserData\PrivData\MD5Comparer\MD5Comparer\obj\Debug\net5.0-windows\MD5 Comparer.g.resources
+C:\Data\UserData\PrivData\MD5Comparer\MD5Comparer\obj\Debug\net5.0-windows\MD5Comparer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\UserData\PrivData\MD5Comparer\MD5Comparer\obj\Debug\net5.0-windows\MD5Comparer.AssemblyInfoInputs.cache
+C:\Data\UserData\PrivData\MD5Comparer\MD5Comparer\obj\Debug\net5.0-windows\MD5Comparer.AssemblyInfo.cs
+C:\Data\UserData\PrivData\MD5Comparer\MD5Comparer\obj\Debug\net5.0-windows\MD5Comparer.csproj.CoreCompileInputs.cache
+C:\Data\UserData\PrivData\MD5Comparer\MD5Comparer\obj\Debug\net5.0-windows\MD5Comparer.csproj.CopyComplete
+C:\Data\UserData\PrivData\MD5Comparer\MD5Comparer\obj\Debug\net5.0-windows\MD5 Comparer.dll
+C:\Data\UserData\PrivData\MD5Comparer\MD5Comparer\obj\Debug\net5.0-windows\ref\MD5 Comparer.dll
+C:\Data\UserData\PrivData\MD5Comparer\MD5Comparer\obj\Debug\net5.0-windows\MD5 Comparer.pdb
+C:\Data\UserData\PrivData\MD5Comparer\MD5Comparer\obj\Debug\net5.0-windows\MD5Comparer.genruntimeconfig.cache
+C:\Data\UserData\PrivData\MD5Comparer\MD5Comparer\obj\Debug\net5.0-windows\MD5Comparer.csproj.AssemblyReference.cache
+C:\Data\UserData\Projects\DotNet\MD5Comparer\MD5Comparer\bin\Debug\net5.0-windows\MD5 Comparer.exe
+C:\Data\UserData\Projects\DotNet\MD5Comparer\MD5Comparer\bin\Debug\net5.0-windows\MD5 Comparer.deps.json
+C:\Data\UserData\Projects\DotNet\MD5Comparer\MD5Comparer\bin\Debug\net5.0-windows\MD5 Comparer.runtimeconfig.json
+C:\Data\UserData\Projects\DotNet\MD5Comparer\MD5Comparer\bin\Debug\net5.0-windows\MD5 Comparer.runtimeconfig.dev.json
+C:\Data\UserData\Projects\DotNet\MD5Comparer\MD5Comparer\bin\Debug\net5.0-windows\MD5 Comparer.dll
+C:\Data\UserData\Projects\DotNet\MD5Comparer\MD5Comparer\bin\Debug\net5.0-windows\ref\MD5 Comparer.dll
+C:\Data\UserData\Projects\DotNet\MD5Comparer\MD5Comparer\bin\Debug\net5.0-windows\MD5 Comparer.pdb
+C:\Data\UserData\Projects\DotNet\MD5Comparer\MD5Comparer\bin\Debug\net5.0-windows\Microsoft.WindowsAPICodePack.dll
+C:\Data\UserData\Projects\DotNet\MD5Comparer\MD5Comparer\bin\Debug\net5.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Data\UserData\Projects\DotNet\MD5Comparer\MD5Comparer\obj\Debug\net5.0-windows\Controls\CompareTwoListBoxItem.g.cs
+C:\Data\UserData\Projects\DotNet\MD5Comparer\MD5Comparer\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Data\UserData\Projects\DotNet\MD5Comparer\MD5Comparer\obj\Debug\net5.0-windows\App.g.cs
+C:\Data\UserData\Projects\DotNet\MD5Comparer\MD5Comparer\obj\Debug\net5.0-windows\MD5 Comparer_MarkupCompile.cache
+C:\Data\UserData\Projects\DotNet\MD5Comparer\MD5Comparer\obj\Debug\net5.0-windows\MD5 Comparer_MarkupCompile.lref
+C:\Data\UserData\Projects\DotNet\MD5Comparer\MD5Comparer\obj\Debug\net5.0-windows\Controls\CompareTwoListBoxItem.baml
+C:\Data\UserData\Projects\DotNet\MD5Comparer\MD5Comparer\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Data\UserData\Projects\DotNet\MD5Comparer\MD5Comparer\obj\Debug\net5.0-windows\MD5 Comparer.g.resources
+C:\Data\UserData\Projects\DotNet\MD5Comparer\MD5Comparer\obj\Debug\net5.0-windows\MD5Comparer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\UserData\Projects\DotNet\MD5Comparer\MD5Comparer\obj\Debug\net5.0-windows\MD5Comparer.AssemblyInfoInputs.cache
+C:\Data\UserData\Projects\DotNet\MD5Comparer\MD5Comparer\obj\Debug\net5.0-windows\MD5Comparer.AssemblyInfo.cs
+C:\Data\UserData\Projects\DotNet\MD5Comparer\MD5Comparer\obj\Debug\net5.0-windows\MD5Comparer.csproj.CoreCompileInputs.cache
+C:\Data\UserData\Projects\DotNet\MD5Comparer\MD5Comparer\obj\Debug\net5.0-windows\MD5Comparer.csproj.CopyComplete
+C:\Data\UserData\Projects\DotNet\MD5Comparer\MD5Comparer\obj\Debug\net5.0-windows\MD5 Comparer.dll
+C:\Data\UserData\Projects\DotNet\MD5Comparer\MD5Comparer\obj\Debug\net5.0-windows\ref\MD5 Comparer.dll
+C:\Data\UserData\Projects\DotNet\MD5Comparer\MD5Comparer\obj\Debug\net5.0-windows\MD5 Comparer.pdb
+C:\Data\UserData\Projects\DotNet\MD5Comparer\MD5Comparer\obj\Debug\net5.0-windows\MD5Comparer.genruntimeconfig.cache
+C:\Data\UserData\Projects\DotNet\MD5Comparer\MD5Comparer\obj\Debug\net5.0-windows\MD5Comparer.csprojAssemblyReference.cache

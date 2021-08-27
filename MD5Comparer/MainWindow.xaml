@@ -1,0 +1,40 @@
+﻿<Window x:Class="MD5Comparer.MainWindow"
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	xmlns:local="clr-namespace:MD5Comparer" mc:Ignorable="d"
+	xmlns:Controls="clr-namespace:MD5Comparer.Controls" Title="MD5 Comparer" Height="800" MinHeight="600" Width="1080" MinWidth="800">
+	<Grid Background="#636e72">
+		<Grid.RowDefinitions>
+			<RowDefinition Height="10" />
+			<RowDefinition Height="40" />
+			<RowDefinition Height="40" />
+			<RowDefinition Height="*" />
+			<RowDefinition Height="*" />
+			<RowDefinition Height="*" />
+			<RowDefinition Height="15" />
+		</Grid.RowDefinitions>
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition Width="10" />
+			<ColumnDefinition Width="*" />
+			<ColumnDefinition Width="90" />
+			<ColumnDefinition Width="*" />
+			<ColumnDefinition Width="90" />
+			<ColumnDefinition Width="10" />
+		</Grid.ColumnDefinitions>
+
+		<StackPanel Grid.Row="1" Grid.Column="1" Orientation="Horizontal">
+			<Button Margin="5" FontFamily="Microsoft YaHei UI" MaxHeight="35" MinHeight="30" MinWidth="70" VerticalAlignment="Top" Content="Compare" Click="CompareButton_Click" Foreground="#2d3436" Background="#b2bec3" FontWeight="Bold" />
+		</StackPanel>
+
+		<TextBox x:Name="textBox_FirstPath" Grid.Row="2" Grid.Column="1" Margin="5 5 0 5" VerticalAlignment="Stretch" Padding="0,5,0,0" IsReadOnly="True" Foreground="#2d3436" Background="#dfe6e9" />
+		<Button Grid.Row="2" Grid.Column="2" Content="Select Path" Margin="0 5 5 5" Click="SelectPath1Button_Click" Foreground="#2d3436" Background="#b2bec3" FontWeight="Bold" />
+		<TextBox x:Name="textBox_SecondPath" Grid.Row="2" Grid.Column="3" Margin="5 5 0 5" VerticalAlignment="Stretch" Padding="0,5,0,0" IsReadOnly="True" Foreground="#2d3436" Background="#dfe6e9" />
+		<Button Grid.Row="2" Grid.Column="4" Content="Select Path" Margin="0 5 5 5" Click="SelectPath2Button_Click" Foreground="#2d3436" Background="#b2bec3" FontWeight="Bold" />
+
+		<ListBox x:Name="compareMatchedListBox" Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="4" Margin="5" ScrollViewer.HorizontalScrollBarVisibility="Disabled" Background="#dfe6e9" SizeChanged="compareListBox_SizeChanged"></ListBox>
+		<ListBox x:Name="compareNotMatchedListBox" Grid.Row="4" Grid.Column="1" Grid.ColumnSpan="4" Margin="5" ScrollViewer.HorizontalScrollBarVisibility="Disabled" Background="#dfe6e9"></ListBox>
+		<ListBox x:Name="compareDifferentNameListBox" Grid.Row="5" Grid.Column="1" Grid.ColumnSpan="4" Margin="5" ScrollViewer.HorizontalScrollBarVisibility="Disabled" Background="#dfe6e9"></ListBox>
+	</Grid>
+</Window>
